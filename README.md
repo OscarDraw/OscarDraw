@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OscarDraw</h1>
-<h3 align="center">A passionate PHP developer from Colombia</h3>
+<h3 align="center">A passionate PHP developer and artist from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscardraw&label=Profile%20views&color=0e75b6&style=flat" alt="oscardraw" /> </p>
 
@@ -7,18 +7,16 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/oscardrawart/](https://www.instagram.com/oscardrawart/)
+- 👨‍💻 All of my projects are available [Github](https://github.com/OscarDraw?tab=repositories) and [Instagram](https://www.instagram.com/oscardrawart/)
 
 - 💬 Ask me about **Symfony, Javascript, SQL, Java**
 
 - 📫 How to reach me **oscarpu_14@hotmail.com**
 
-- ⚡ Fun fact **I'm artist https://www.instagram.com/oscardrawart/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oscardraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscardraw" height="30" width="40" /></a>
-<a href="https://instagram.com/oscardraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oscardraw" height="30" width="40" /></a>
+<a href="https://instagram.com/oscardrawart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oscardraw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
