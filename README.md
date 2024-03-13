@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscardraw&label=Profile%20views&color=0e75b6&style=flat" alt="oscardraw" /> </p>
 
-- 🔭 I’m currently working on [GrupoDitech](https://ditech.es/)
+<!-- - 🔭 I’m currently working on [GrupoDitech](https://ditech.es/) -->
 
 - 🌱 I’m currently learning **React Js**
 
